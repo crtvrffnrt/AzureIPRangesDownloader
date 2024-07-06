@@ -6,7 +6,7 @@ class AzureCSVDownloader:
     def __init__(self):
         self.azure_download_page = "https://www.microsoft.com/en-us/download/details.aspx?id=53602"
         self.headers = {
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0'
         }
 
     def _get_direct_link(self):
