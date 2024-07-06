@@ -1,13 +1,12 @@
 # AzureIPRangesDownloader
 
 ## Overview
-### azure_ip_ranges_downloader.py is a Python script designed to fetch the latest IP ranges from Microsoft's Azure services and save them to a local JSON file. This script ensures that the latest IP ranges are always available by downloading and overwriting the existing file.
+azure_ip_ranges_downloader.py is a Python script designed to fetch the latest IP ranges from Microsoft's Azure services and save them to a local JSON file. This script ensures that the latest IP ranges are always available by downloading and overwriting the existing file.
 
-Sourcefile: [Azure IP Ranges](https://www.microsoft.com/en-us/download/details.aspx?id=53602 "Download Azure IP Ranges CSV")
+[![Azure IP Ranges](https://img.shields.io/badge/Azure-IP_Ranges-blue)](https://www.microsoft.com/en-us/download/details.aspx?id=53602)
 
 ### microsoft_ip_ranges_downloader.py is a Python script designed for the same purpose for Microsoft IP`s.
 
-Sourcefile: **[Azure IP Ranges](https://www.microsoft.com/en-us/download/details.aspx?id=53602)**
 
 
 
