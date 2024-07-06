@@ -14,7 +14,7 @@ class AzureDownloader:
         direct_link = soup.select_one(".dlcdetail__download-btn")["href"]
         return direct_link
 
-    def download_and_save_json(self, save_path="/tmp/ServiceTags_Public.json"):
+    def download_and_save_json(self, save_path="./ServiceTags_Public.json"):
         direct_link = self._get_direct_link()
         r = requests.get(direct_link)
         with open(save_path, 'w') as f:
