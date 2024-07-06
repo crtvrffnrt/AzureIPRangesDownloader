@@ -14,10 +14,11 @@ AzureIPRangesDownloader is a Python script designed to fetch the latest IP range
 - `requests` library
 - `beautifulsoup4` library
 
-## Installation
+## Usage
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/AzureIPRangesDownloader.git
+   ```
+   git clone https://github.com/crtvrffnrt/AzureIPRangesDownloader.git
    cd AzureIPRangesDownloader
    pip install -r requirements.txt
    python azure_ip_ranges_downloader.py
+   ``` 
