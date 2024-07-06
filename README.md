@@ -7,7 +7,7 @@ azure_ip_ranges_downloader.py is a Python script designed to fetch the latest IP
 
 ### microsoft_ip_ranges_downloader.py is a Python script designed for the same purpose for Microsoft IP`s.
 
-
+[![Microsoft IP Ranges](https://img.shields.io/badge/Microsoft-IP_Ranges-blue)](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
 
 
 
