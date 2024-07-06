@@ -19,3 +19,5 @@ AzureIPRangesDownloader is a Python script designed to fetch the latest IP range
    ```sh
    git clone https://github.com/yourusername/AzureIPRangesDownloader.git
    cd AzureIPRangesDownloader
+   pip install -r requirements.txt
+   python azure_ip_ranges_downloader.py
