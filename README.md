@@ -7,7 +7,8 @@ Sourcefile: [Azure IP Ranges](https://www.microsoft.com/en-us/download/details.a
 
 ### microsoft_ip_ranges_downloader.py is a Python script designed for the same purpose for Microsoft IP`s.
 
-Sourcefile: [Microsoft IP Ranges](https://www.microsoft.com/en-us/download/details.aspx?id=53602 "Download Microsoft IP Ranges CSV")
+Sourcefile: **[Azure IP Ranges](https://www.microsoft.com/en-us/download/details.aspx?id=53602)**
+
 
 
 
