@@ -10,8 +10,6 @@ Download Source used in script = [![Azure IP Ranges](https://img.shields.io/badg
 
 Download Source used in script = [![Microsoft IP Ranges](https://img.shields.io/badge/Microsoft-IP_Ranges-orange)](https://www.microsoft.com/en-us/download/details.aspx?id=53602)
 
-https://www.microsoft.com/en-us/download/details.aspx?id=56519
-
 ## Features
 - Fetches the latest IP ranges from Microsoft Azure.
 - Saves the IP ranges to a JSON file.
